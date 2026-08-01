@@ -171,7 +171,15 @@ A good ChamberMaster/GrowthZone directory export is not the largest file you can
 
 ## Related
 
-- [chamber-association-lead-lists](https://github.com/willowridge1234/chamber-association-lead-lists) — Cross-platform guide to chamber and association directory leads
-- [memberclicks-directory-export-guide](https://github.com/willowridge1234/memberclicks-directory-export-guide) — Focused MemberClicks directory guide
-- [wild-apricot-directory-export-guide](https://github.com/willowridge1234/wild-apricot-directory-export-guide) — Focused Wild Apricot directory guide
-- [membershipworks-member-directory-export-guide](https://github.com/willowridge1234/membershipworks-member-directory-export-guide) — Focused MembershipWorks directory guide
+Other free workflows and guides we publish:
+
+- [n8n-ai-lead-scoring](https://github.com/willowridge1234/n8n-ai-lead-scoring) — Free workflow — score scraped leads against your ICP, log to Google Sheets
+- [n8n-review-intent-lead-scoring](https://github.com/willowridge1234/n8n-review-intent-lead-scoring) — Free workflow — score G2/Capterra reviewers by switching intent
+- [n8n-tradeshow-exhibitor-lead-scoring](https://github.com/willowridge1234/n8n-tradeshow-exhibitor-lead-scoring) — Free workflow — score trade-show exhibitors against your ICP
+- [n8n-lead-scoring-guide](https://github.com/willowridge1234/n8n-lead-scoring-guide) — Guide — which signals predict a good lead, and how to tell if scoring works
+- [chamber-association-lead-lists](https://github.com/willowridge1234/chamber-association-lead-lists) — Guide — building B2B lead lists from chamber & association directories
+- [memberclicks-directory-export-guide](https://github.com/willowridge1234/memberclicks-directory-export-guide) — Guide — exporting a public MemberClicks member directory
+- [new-liquor-license-data-guide](https://github.com/willowridge1234/new-liquor-license-data-guide) — Guide + tool — building a lead list from public liquor-licence records
+- [chicago-food-service-license-data-guide](https://github.com/willowridge1234/chicago-food-service-license-data-guide) — Guide + tool — building a lead list from Chicago food-service licence records
+- [wild-apricot-directory-export-guide](https://github.com/willowridge1234/wild-apricot-directory-export-guide) — Guide — exporting a public Wild Apricot member directory
+- [membershipworks-member-directory-export-guide](https://github.com/willowridge1234/membershipworks-member-directory-export-guide) — Guide + tool — exporting a public MembershipWorks member directory
